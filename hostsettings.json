@@ -1,0 +1,5 @@
+{
+    "Host": "192.168.1.140",
+    "Port": "3505",
+    "HostHttpUrl": "http://192.168.1.140:8038/cgi-bin/tasks/syslog"
+}
